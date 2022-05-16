@@ -1,0 +1,17 @@
+.input-groups{
+	background-color: #ededed !important;
+	display:  flex;
+	padding: 10px;
+	align-content: center;
+	align-items: center;
+	margin: 10px;
+	border-radius: 8px;
+}
+.input-groups input{
+	background-color: #ededed !important;
+	padding: 4px;
+	margin-left: 20px;
+	border: none;
+	width: 100%;
+	 outline:none;
+}
